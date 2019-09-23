@@ -1,6 +1,6 @@
 # Hyperledger-study-16
 
-하이퍼레져 앱 만들기 실습 15일차 - Html, Css, JavaScript 클릭시 변환
+하이퍼레져 앱 만들기 실습 16일차 - Html, Css, JavaScript 클릭시 변환
 
 출처 : https://www.opentutorials.org/module/4058/24737
 
